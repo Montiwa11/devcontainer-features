@@ -7,7 +7,7 @@ OpenShift is a unified platform to build, modernize, and deploy applications at 
 
 ```json
 "features": {
-    "ghcr.io/paul-gilber/devcontainer-features/openshift-cli-homebrew:1": {}
+    "ghcr.io/Montiwa11/devcontainer-features/openshift-cli-homebrew:1": {}
 }
 ```
 
@@ -58,4 +58,4 @@ services:
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/paul-gilber/devcontainer-features/blob/main/src/openshift-cli-homebrew/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Montiwa11/devcontainer-features/blob/main/src/openshift-cli-homebrew/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

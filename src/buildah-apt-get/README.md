@@ -7,7 +7,7 @@ Buildah is a tool that facilitates building Open Container Initiative (OCI) cont
 
 ```json
 "features": {
-    "ghcr.io/paul-gilber/devcontainer-features/buildah-apt-get:1": {}
+    "ghcr.io/Montiwa11/devcontainer-features/buildah-apt-get:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Buildah is a tool that facilitates building Open Container Initiative (OCI) cont
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/paul-gilber/devcontainer-features/blob/main/src/buildah-apt-get/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Montiwa11/devcontainer-features/blob/main/src/buildah-apt-get/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

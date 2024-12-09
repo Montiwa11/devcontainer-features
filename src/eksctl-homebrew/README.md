@@ -7,7 +7,7 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that elimina
 
 ```json
 "features": {
-    "ghcr.io/paul-gilber/devcontainer-features/eksctl-homebrew:1": {}
+    "ghcr.io/Montiwa11/devcontainer-features/eksctl-homebrew:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that elimina
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/paul-gilber/devcontainer-features/blob/main/src/eksctl-homebrew/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Montiwa11/devcontainer-features/blob/main/src/eksctl-homebrew/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
