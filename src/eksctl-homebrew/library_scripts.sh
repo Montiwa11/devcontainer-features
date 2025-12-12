@@ -1,4 +1,4 @@
-#!/bin/bash -i
+#!/bin/bash -isales@montiwa11.slack.com
 
 
 clean_download() {
